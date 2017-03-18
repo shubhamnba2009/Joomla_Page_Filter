@@ -5,10 +5,11 @@ Suppose you have a browser window with multiple tabs running, this extension clo
 
 # How to run this extension ?
 1. Clone the repo from: https://github.com/shubhamnba2009/Joomla_Page_Filter
-1. Go to 3dots menu on the Top right corner of Chrome browser
-2. Under More tools select extensions.
-3. Check the Developer mode option.
-4. Click on "Load unpacked extension..."
-5. Select the directory where you cloned the repo.
-6. A new extension will be created in the toolbar menu.
+2. Go to 3dots menu on the Top right corner of Chrome browser
+3. Under More tools select extensions.
+4. Check the Developer mode option.
+5. Click on "Load unpacked extension..."
+6. Select the directory where you cloned the repo.
+7. A new extension will be created in the toolbar menu.
+
 ![alt-tag](https://github.com/shubhamnba2009/hello-world/blob/master/Joomla_page_filter_extension.png)
