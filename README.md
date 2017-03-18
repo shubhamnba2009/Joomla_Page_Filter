@@ -11,3 +11,4 @@ Suppose you have a browser window with multiple tabs running, this extension clo
 4. Click on "Load unpacked extension..."
 5. Select the directory where you cloned the repo.
 6. A new extension will be created in the toolbar menu.
+![alt-tag](https://github.com/shubhamnba2009/hello-world/blob/master/Joomla_page_filter_extension.png)
