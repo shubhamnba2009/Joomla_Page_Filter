@@ -9,6 +9,10 @@ Suppose you have a browser window with multiple tabs running, this extension clo
 3. Under More tools select extensions.
 4. Check the Developer mode option.
 5. Click on "Load unpacked extension..."
+
+![alt-tag](https://github.com/shubhamnba2009/hello-world/blob/master/developer_mode_chrome.png)
+
+
 6. Select the directory where you cloned the repo.
 7. A new extension will be created in the toolbar menu.
 
